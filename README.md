@@ -1,4 +1,4 @@
-# Materias de estudo
+# Materias de estudo para Python
 Repositório para divulgação de links de materiais de estudo sobre Python, Django, Flask e afins.
 
 <!-- TOC -->
