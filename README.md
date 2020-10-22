@@ -60,6 +60,10 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
           </br>[Python for Scientists and Engineers](https://www.pythonforengineers.com/python-for-scientists-and-engineers/)
           </br>[Computational Physics with Python](http://www.fizika.unios.hr/rf/wp-content/uploads/sites/67/2011/02/CPwP.pdf)
 
+## Exemplos
+- **Exemplos e modelos clássicos**
+          </br>[Exemplos de Python](https://github.com/fernandozoomp/Estudos_Python)
+
 ## Lives
 - **Semanais**
           </br>[Live de Python](https://www.youtube.com/user/mendesesduardo)
