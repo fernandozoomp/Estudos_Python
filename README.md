@@ -62,7 +62,7 @@ Repositório para divulgação de links de materiais de estudo sobre Python, Dja
 
 ## Exemplos
 - **Exemplos e modelos clássicos**
-          </br>[Exemplos de Python](https://github.com/fernandozoomp/Estudos_Python)
+          </br>[Exemplos de Python](https://github.com/fernandozoomp/Estudos_Python/tree/master/Exemplos_comuns)
 
 ## Lives
 - **Semanais**
